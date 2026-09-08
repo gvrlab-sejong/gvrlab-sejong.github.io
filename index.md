@@ -15,11 +15,11 @@ content generation to real-time immersive rendering.
 - Real-time immersive rendering
 
 **Center Affiliation**
-The lab hosts the ITRC Ultra-Realistic XR Research Center, coordinating research 
+- The lab hosts the ITRC Ultra-Realistic XR Research Center, coordinating research 
 collaborations across academia and industry.
 
 **Collaborations**
-Our work has been carried out in collaboration with research groups at ETH Zurich, 
+- Our work has been carried out in collaboration with research groups at ETH Zurich, 
 Disney Research, and medical institutions including Samsung Medical Center and Seoul 
 National University Hospital, spanning areas such as medical simulation and digital 
 entertainment.
