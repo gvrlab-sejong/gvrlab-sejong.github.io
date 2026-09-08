@@ -21,7 +21,7 @@ tools that bridge real-world spatial data with interactive visualization and ana
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="images/members/pgKim.jpg"
+  <img src="images/members/pgKim.png"
        style="border-radius: 50%; margin-right: 20px;" width="120" height="120">
   <div>
     <strong>Kim Min-jun</strong><br>
