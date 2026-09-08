@@ -2,11 +2,27 @@
 
 > 🚧 This page is under construction. Content may change without notice. 🚧
 
-## About
+## About GVR Lab
 
-The GVR (Graphics, Vision, and Robotics) Lab at Sejong University conducts research on 
-spatial computing, 3D reconstruction, and immersive data platforms. We focus on building 
-tools that bridge real-world spatial data with interactive visualization and analysis.
+The Graphics & Virtual Reality (GVR) Lab at Sejong University researches the core 
+technologies behind realistic XR experiences and spatial computing — from AI-driven 
+content generation to real-time immersive rendering.
+
+**Research Areas**
+- AI-driven XR content synthesis
+- Multimodal human-computer interaction
+- Spatial sensing and 3D reconstruction
+- Real-time immersive rendering
+
+**Center Affiliation**
+The lab hosts the ITRC Ultra-Realistic XR Research Center, coordinating research 
+collaborations across academia and industry.
+
+**Collaborations**
+Our work has been carried out in collaboration with research groups at ETH Zurich, 
+Disney Research, and medical institutions including Samsung Medical Center and Seoul 
+National University Hospital, spanning areas such as medical simulation and digital 
+entertainment.
 
 ## Members
 
