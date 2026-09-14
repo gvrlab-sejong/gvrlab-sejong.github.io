@@ -77,6 +77,22 @@ entertainment.
 
 <div style="display: grid; grid-template-columns: 120px 1fr; align-items: center; margin-bottom: 20px;">
   <div style="width: 100px; height: 100px; border-radius: 50%; overflow: hidden;">
+    <img src="images/members/Rasoul.png" 
+         style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
+  </div>
+  <div>
+    <strong>Mousavi Seyyed Rasoul</strong><br>
+    Ph.D. Student<br>
+    Research interests: Extended Reality (XR), Human–Computer Interaction (HCI), 3D Scene Understanding
+3D Scene Graphs and Dynamic Scene Graphs
+Embodied AI and AI Agents<br>
+    seyyedrasoulmousavi95@gmail.com · <a href="[https://www.linkedin.com/in/fatema-rahimi-87bb36155](https://www.linkedin.com/in/fatema-rahimi-87bb36155?utm_source=share_via&utm_content=profile&utm_medium=member_ios)">LinkedIn</a>
+  </div>
+</div>
+
+
+<div style="display: grid; grid-template-columns: 120px 1fr; align-items: center; margin-bottom: 20px;">
+  <div style="width: 100px; height: 100px; border-radius: 50%; overflow: hidden;">
     <img src="images/members/jmJeon.jpg" 
          style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
   </div>
