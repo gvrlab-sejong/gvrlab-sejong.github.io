@@ -41,7 +41,7 @@ entertainment.
 
 <div style="display: grid; grid-template-columns: 120px 1fr; align-items: center; margin-bottom: 20px;">
   <div style="width: 100px; height: 100px; border-radius: 50%; overflow: hidden;">
-    <img src="images/members/SafariBazarganiJalal.png" 
+    <img src="images/members/jalal.png" 
          style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
   </div>
   <div>
