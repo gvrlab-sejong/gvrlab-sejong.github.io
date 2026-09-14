@@ -58,7 +58,7 @@ entertainment.
     <strong>Safari Bazargani Jalal</strong><br>
     Ph.D<br>
     Research interests: Extended Reality (XR), Human-Computer Interaction, Scene Graph Generation, Scene Synthesis<br>
-    j.safari@sejong.ac.kr · <a href="https://jaysafari.github.io/">Homepage</a>
+    jsafari@sejong.ac.kr · <a href="https://jaysafari.github.io/">Homepage</a>
   </div>
 </div>
 
