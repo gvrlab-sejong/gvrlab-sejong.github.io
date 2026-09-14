@@ -139,7 +139,7 @@ entertainment.
     <strong>Kang Yun-seong</strong><br>
     Master's Student<br>
     Research interests: Extended Reality (XR), 3D Gaussian Splatting, NVS, SfM Pipelines, Spatial Computing<br>
-    ys.blef.k@sju.ac.kr · 
+    ys.blef.k@sju.ac.kr · <a href="https://www.youtube.com/@BK_Work">YouTube</a>
   </div>
 </div>
 
