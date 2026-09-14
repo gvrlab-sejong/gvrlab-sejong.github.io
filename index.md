@@ -73,7 +73,7 @@ entertainment.
   <div>
     <strong>Jeon Jong-min</strong><br>
     Ph.D. Student<br>
-    Research interests: MR/VR Interaction, 3D Reconstruction, Vision-Language Models for Virtual Agents<br>
+    Research interests: MR/VR Interaction, 3D Reconstruction, Virtual Agents<br>
     jjm6564@sju.ac.kr · <a href="https://jjm6564.github.io/">Homepage</a>
   </div>
 </div>
