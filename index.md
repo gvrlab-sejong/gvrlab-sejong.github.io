@@ -110,7 +110,7 @@ entertainment.
          style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
   </div>
   <div>
-    <strong>Lee Sung-yo</strong><br>
+    <strong>Lee Sun-gyo</strong><br>
     Master's Student<br>
     Research interests: Extended Reality, IoT<br>
     sungyo0421@naver.com
@@ -139,7 +139,7 @@ entertainment.
     <strong>Kang Yun-seong</strong><br>
     Master's Student<br>
     Research interests: Extended Reality (XR), 3D Gaussian Splatting, NVS, SfM Pipelines, Spatial Computing<br>
-    ys.blef.k@sju.ac.kr · <a href="https://www.youtube.com/@BK_Work">YouTube</a>
+    ys.blef.k@sju.ac.kr · 
   </div>
 </div>
 
