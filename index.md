@@ -33,7 +33,7 @@ entertainment.
   </div>
   <div>
     <strong>Kim Ye-eun</strong><br>
-    Ph.D. Student<br>
+    Ph.D<br>
     Research interests: Extended Reality (XR), Human-Computer Interaction, Digital Contents and Interactive Art<br>
     kyy1462@sejong.ac.kr · <a href="https://www.dbpia.co.kr/author/authorDetail?ancId=585097343">DBpia</a>
   </div>
@@ -46,7 +46,7 @@ entertainment.
   </div>
   <div>
     <strong>Safari Bazargani Jalal</strong><br>
-    Ph.D. Student<br>
+    Ph.D<br>
     Research interests: Extended Reality (XR), Human-Computer Interaction, Scene Graph Generation, Scene Synthesis<br>
     j.safari@sejong.ac.kr · <a href="https://jaysafari.github.io/">Homepage</a>
   </div>
