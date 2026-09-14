@@ -27,8 +27,10 @@ entertainment.
 ## Members
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="images/members/YeEun.jpg"
-       style="border-radius: 50%; margin-right: 20px;" width="120" height="120">
+  <div style="flex-shrink: 0; width: 100px; height: 100px; border-radius: 50%; overflow: hidden; margin-right: 20px;">
+    <img src="images/members/YeEun.jpg" 
+         style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
+  </div>
   <div>
     <strong>Kim Ye-eun</strong><br>
     Ph.D. Student<br>
@@ -38,8 +40,10 @@ entertainment.
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="images/members/SafariBazarganiJalal.png"
-       style="border-radius: 50%; margin-right: 20px;" width="120" height="120">
+  <div style="flex-shrink: 0; width: 100px; height: 100px; border-radius: 50%; overflow: hidden; margin-right: 20px;">
+    <img src="images/members/SafariBazarganiJalal.png" 
+         style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
+  </div>
   <div>
     <strong>Safari Bazargani Jalal</strong><br>
     Ph.D. Student<br>
@@ -61,11 +65,11 @@ entertainment.
   </div>
 </div>
 
-
-
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="images/members/jmJeon.jpg"
-       style="border-radius: 50%; margin-right: 20px;" width="120" height="120">
+  <div style="flex-shrink: 0; width: 100px; height: 100px; border-radius: 50%; overflow: hidden; margin-right: 20px;">
+    <img src="images/members/jmJeon.jpg" 
+         style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
+  </div>
   <div>
     <strong>Jeon Jong-min</strong><br>
     Ph.D. Student<br>
@@ -75,8 +79,10 @@ entertainment.
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="images/members/pgKim.png"
-       style="border-radius: 50%; margin-right: 20px;" width="120" height="120">
+  <div style="flex-shrink: 0; width: 100px; height: 100px; border-radius: 50%; overflow: hidden; margin-right: 20px;">
+    <img src="images/members/pgKim.png" 
+         style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
+  </div>
   <div>
     <strong>Kim Phil-joong</strong><br>
     Ph.D. Combined Program<br>
@@ -86,8 +92,10 @@ entertainment.
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="images/members/trungDo.jpg"
-       style="border-radius: 50%; margin-right: 20px;" width="120" height="120">
+  <div style="flex-shrink: 0; width: 100px; height: 100px; border-radius: 50%; overflow: hidden; margin-right: 20px;">
+    <img src="images/members/trungDo.jpg" 
+         style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
+  </div>
   <div>
     <strong>Do Thanh Trung</strong><br>
     Ph.D. Combined Program<br>
@@ -97,8 +105,10 @@ entertainment.
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="images/members/skLee.png"
-       style="border-radius: 50%; margin-right: 20px;" width="120" height="120">
+  <div style="flex-shrink: 0; width: 100px; height: 100px; border-radius: 50%; overflow: hidden; margin-right: 20px;">
+    <img src="images/members/skLee.png" 
+         style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
+  </div>
   <div>
     <strong>Lee Sung-yo</strong><br>
     Master's Student<br>
@@ -108,8 +118,10 @@ entertainment.
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="images/members/jhSeo.jpg"
-       style="border-radius: 50%; margin-right: 20px;" width="120" height="120">
+  <div style="flex-shrink: 0; width: 100px; height: 100px; border-radius: 50%; overflow: hidden; margin-right: 20px;">
+    <img src="images/members/jhSeo.jpg" 
+         style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
+  </div>
   <div>
     <strong>Seo Jeong-hoon</strong><br>
     Master's Combined Program<br>
@@ -119,8 +131,10 @@ entertainment.
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="images/members/ysKang.jpg"
-       style="border-radius: 50%; margin-right: 20px;" width="120" height="120">
+  <div style="flex-shrink: 0; width: 100px; height: 100px; border-radius: 50%; overflow: hidden; margin-right: 20px;">
+    <img src="images/members/ysKang.jpg" 
+         style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
+  </div>
   <div>
     <strong>Kang Yun-seong</strong><br>
     Master's Student<br>
@@ -129,11 +143,4 @@ entertainment.
   </div>
 </div>
 
-
-
-
-
-
-
-    
 *Last updated: September 2026*
