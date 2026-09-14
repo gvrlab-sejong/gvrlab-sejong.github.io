@@ -37,23 +37,96 @@ entertainment.
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="images/members/pgKim.png"
+  <img src="images/members/KangYunseong.png"
        style="border-radius: 50%; margin-right: 20px;" width="120" height="120">
   <div>
-    <strong>Kim Min-jun</strong><br>
-    PhD Candidate<br>
-    Research interests: 3D Gaussian Splatting, SfM Pipelines
+    <strong>Kang Yun-seong</strong><br>
+    Master's Student<br>
+    Research interests: 3D Gaussian Splatting, NVS, SfM Pipelines, Spatial Computing<br>
+    ys.blef.k@sju.ac.kr · <a href="https://www.youtube.com/@BK_Work">YouTube</a>
   </div>
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="https://ui-avatars.com/api/?name=Lee+Jiwoo&size=120&background=random" 
+  <img src="images/members/JeonJongmin.png"
        style="border-radius: 50%; margin-right: 20px;" width="120" height="120">
   <div>
-    <strong>Lee Ji-woo</strong><br>
-    Master's Student<br>
-    Research interests: Spatiotemporal 3D Mapping, XR Interfaces
+    <strong>Jeon Jong-min</strong><br>
+    Ph.D. Student<br>
+    Research interests: MR/VR Interaction, 3D Reconstruction, Vision-Language Models for Virtual Agents<br>
+    jjm6564@sju.ac.kr · <a href="https://jjm6564.github.io/">Homepage</a>
   </div>
 </div>
 
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="images/members/LeeSungyo.png"
+       style="border-radius: 50%; margin-right: 20px;" width="120" height="120">
+  <div>
+    <strong>Lee Sung-yo</strong><br>
+    Master's Student<br>
+    Research interests: Extended Reality, IoT<br>
+    sungyo0421@naver.com
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="images/members/DoThanhTrung.png"
+       style="border-radius: 50%; margin-right: 20px;" width="120" height="120">
+  <div>
+    <strong>Do Thanh Trung</strong><br>
+    Ph.D. Combined Program<br>
+    Research interests: Extended Reality, BCI, Virtual Agent<br>
+    dothanhtrung0210@sju.ac.kr
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="images/members/KimPhiljoong.png"
+       style="border-radius: 50%; margin-right: 20px;" width="120" height="120">
+  <div>
+    <strong>Kim Phil-joong</strong><br>
+    Ph.D. Combined Program<br>
+    Research interests: Extended Reality, Mixed Reality, HCI, On-device AI Integration for Immersive Environments<br>
+    fjfo1010@naver.com
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="images/members/SeoJeonghoon.png"
+       style="border-radius: 50%; margin-right: 20px;" width="120" height="120">
+  <div>
+    <strong>Seo Jeong-hoon</strong><br>
+    Master's Combined Program<br>
+    Research interests: Extended Reality (XR), Human-AI Interaction, Multimodal Interaction, 3D Vision, Spatial Computing<br>
+    tr774@naver.com · Instagram: <a href="https://instagram.com/_laurent.h_">@_laurent.h_</a>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="images/members/KimYeeun.png"
+       style="border-radius: 50%; margin-right: 20px;" width="120" height="120">
+  <div>
+    <strong>Kim Ye-eun</strong><br>
+    Ph.D. Student<br>
+    Research interests: Extended Reality (XR), Human-Computer Interaction, Digital Contents and Interactive Art<br>
+    kyy1462@sejong.ac.kr · <a href="https://www.dbpia.co.kr/author/authorDetail?ancId=585097343">DBpia</a>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="images/members/SafariBazarganiJalal.png"
+       style="border-radius: 50%; margin-right: 20px;" width="120" height="120">
+  <div>
+    <strong>Safari Bazargani Jalal</strong><br>
+    Ph.D. Student<br>
+    Research interests: Extended Reality (XR), Human-Computer Interaction, Scene Graph Generation, Scene Synthesis<br>
+    j.safari@sejong.ac.kr · <a href="https://jaysafari.github.io/">Homepage</a>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="images/members/RahimiFatema.png"
+       style="border-radius: 50%; margin-right: 20px;" width="120" height="120">
+  <div>
+    
 *Last updated: September 2026*
