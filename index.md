@@ -84,7 +84,7 @@ entertainment.
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="images/members/trungDo - 복사본.jpg"
+  <img src="images/members/trungDo.jpg"
        style="border-radius: 50%; margin-right: 20px;" width="120" height="120">
   <div>
     <strong>Do Thanh Trung</strong><br>
