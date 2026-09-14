@@ -27,83 +27,7 @@ entertainment.
 ## Members
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="https://ui-avatars.com/api/?name=Hong+Gildong&size=120&background=random" 
-       style="border-radius: 50%; margin-right: 20px;" width="120" height="120">
-  <div>
-    <strong>Prof. Hong Gil-dong</strong><br>
-    Principal Investigator<br>
-    Research interests: Computer Graphics, Spatial Computing
-  </div>
-</div>
-
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="images/members/KangYunseong.png"
-       style="border-radius: 50%; margin-right: 20px;" width="120" height="120">
-  <div>
-    <strong>Kang Yun-seong</strong><br>
-    Master's Student<br>
-    Research interests: 3D Gaussian Splatting, NVS, SfM Pipelines, Spatial Computing<br>
-    ys.blef.k@sju.ac.kr · <a href="https://www.youtube.com/@BK_Work">YouTube</a>
-  </div>
-</div>
-
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="images/members/JeonJongmin.png"
-       style="border-radius: 50%; margin-right: 20px;" width="120" height="120">
-  <div>
-    <strong>Jeon Jong-min</strong><br>
-    Ph.D. Student<br>
-    Research interests: MR/VR Interaction, 3D Reconstruction, Vision-Language Models for Virtual Agents<br>
-    jjm6564@sju.ac.kr · <a href="https://jjm6564.github.io/">Homepage</a>
-  </div>
-</div>
-
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="images/members/LeeSungyo.png"
-       style="border-radius: 50%; margin-right: 20px;" width="120" height="120">
-  <div>
-    <strong>Lee Sung-yo</strong><br>
-    Master's Student<br>
-    Research interests: Extended Reality, IoT<br>
-    sungyo0421@naver.com
-  </div>
-</div>
-
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="images/members/DoThanhTrung.png"
-       style="border-radius: 50%; margin-right: 20px;" width="120" height="120">
-  <div>
-    <strong>Do Thanh Trung</strong><br>
-    Ph.D. Combined Program<br>
-    Research interests: Extended Reality, BCI, Virtual Agent<br>
-    dothanhtrung0210@sju.ac.kr
-  </div>
-</div>
-
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="images/members/KimPhiljoong.png"
-       style="border-radius: 50%; margin-right: 20px;" width="120" height="120">
-  <div>
-    <strong>Kim Phil-joong</strong><br>
-    Ph.D. Combined Program<br>
-    Research interests: Extended Reality, Mixed Reality, HCI, On-device AI Integration for Immersive Environments<br>
-    fjfo1010@naver.com
-  </div>
-</div>
-
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="images/members/SeoJeonghoon.png"
-       style="border-radius: 50%; margin-right: 20px;" width="120" height="120">
-  <div>
-    <strong>Seo Jeong-hoon</strong><br>
-    Master's Combined Program<br>
-    Research interests: Extended Reality (XR), Human-AI Interaction, Multimodal Interaction, 3D Vision, Spatial Computing<br>
-    tr774@naver.com · Instagram: <a href="https://instagram.com/_laurent.h_">@_laurent.h_</a>
-  </div>
-</div>
-
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="images/members/KimYeeun.png"
+  <img src="images/members/YeEun.jpg"
        style="border-radius: 50%; margin-right: 20px;" width="120" height="120">
   <div>
     <strong>Kim Ye-eun</strong><br>
@@ -125,8 +49,89 @@ entertainment.
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="images/members/RahimiFatema.png"
+  <img src="images/members/Fatema.png"
        style="border-radius: 50%; margin-right: 20px;" width="120" height="120">
   <div>
+    <strong>Rahimi Fatema</strong><br>
+    Ph.D. Student<br>
+    Research interests: Extended Reality (XR), Human-Computer Interaction, Education<br>
+    fatemehr937@gmail.com · <a href="https://www.linkedin.com/in/fatema-rahimi-87bb36155">LinkedIn</a>
+  </div>
+</div>
+
+
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="images/members/jmJeon.jpg"
+       style="border-radius: 50%; margin-right: 20px;" width="120" height="120">
+  <div>
+    <strong>Jeon Jong-min</strong><br>
+    Ph.D. Student<br>
+    Research interests: MR/VR Interaction, 3D Reconstruction, Vision-Language Models for Virtual Agents<br>
+    jjm6564@sju.ac.kr · <a href="https://jjm6564.github.io/">Homepage</a>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="images/members/pjKim.png"
+       style="border-radius: 50%; margin-right: 20px;" width="120" height="120">
+  <div>
+    <strong>Kim Phil-joong</strong><br>
+    Ph.D. Combined Program<br>
+    Research interests: Extended Reality, Mixed Reality, HCI, On-device AI Integration for Immersive Environments<br>
+    fjfo1010@naver.com
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="images/members/trungDo - 복사본.png"
+       style="border-radius: 50%; margin-right: 20px;" width="120" height="120">
+  <div>
+    <strong>Do Thanh Trung</strong><br>
+    Ph.D. Combined Program<br>
+    Research interests: Extended Reality, BCI, Virtual Agent<br>
+    dothanhtrung0210@sju.ac.kr
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="images/members/skLee.png"
+       style="border-radius: 50%; margin-right: 20px;" width="120" height="120">
+  <div>
+    <strong>Lee Sung-yo</strong><br>
+    Master's Student<br>
+    Research interests: Extended Reality, IoT<br>
+    sungyo0421@naver.com
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="images/members/jhSeo.jpg"
+       style="border-radius: 50%; margin-right: 20px;" width="120" height="120">
+  <div>
+    <strong>Seo Jeong-hoon</strong><br>
+    Master's Combined Program<br>
+    Research interests: Extended Reality (XR), Human-AI Interaction, Multimodal Interaction, 3D Vision, Spatial Computing<br>
+    tr774@naver.com · Instagram: <a href="https://instagram.com/_laurent.h_">@_laurent.h_</a>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="images/members/ysKang.jpg"
+       style="border-radius: 50%; margin-right: 20px;" width="120" height="120">
+  <div>
+    <strong>Kang Yun-seong</strong><br>
+    Master's Student<br>
+    Research interests: 3D Gaussian Splatting, NVS, SfM Pipelines, Spatial Computing<br>
+    ys.blef.k@sju.ac.kr · <a href="https://www.youtube.com/@BK_Work">YouTube</a>
+  </div>
+</div>
+
+
+
+
+
+
+
     
 *Last updated: September 2026*
