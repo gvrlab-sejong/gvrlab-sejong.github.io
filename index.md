@@ -50,7 +50,7 @@ entertainment.
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="flex-shrink: 0; width: 100px; height: 100px; border-radius: 50%; overflow: hidden; margin-right: 20px;">
-    <img src="images/members/RahimiFatema.png" 
+    <img src="images/members/Fatema.png" 
          style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
   </div>
   <div>
