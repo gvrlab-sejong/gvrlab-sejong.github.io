@@ -26,8 +26,8 @@ entertainment.
 
 ## Members
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <div style="flex-shrink: 0; width: 100px; height: 100px; border-radius: 50%; overflow: hidden; margin-right: 20px;">
+<div style="display: grid; grid-template-columns: 120px 1fr; align-items: center; margin-bottom: 20px;">
+  <div style="width: 100px; height: 100px; border-radius: 50%; overflow: hidden;">
     <img src="images/members/YeEun.jpg" 
          style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
   </div>
@@ -39,8 +39,8 @@ entertainment.
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <div style="flex-shrink: 0; width: 100px; height: 100px; border-radius: 50%; overflow: hidden; margin-right: 20px;">
+<div style="display: grid; grid-template-columns: 120px 1fr; align-items: center; margin-bottom: 20px;">
+  <div style="width: 100px; height: 100px; border-radius: 50%; overflow: hidden;">
     <img src="images/members/SafariBazarganiJalal.png" 
          style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
   </div>
@@ -52,8 +52,8 @@ entertainment.
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <div style="flex-shrink: 0; width: 100px; height: 100px; border-radius: 50%; overflow: hidden; margin-right: 20px;">
+<div style="display: grid; grid-template-columns: 120px 1fr; align-items: center; margin-bottom: 20px;">
+  <div style="width: 100px; height: 100px; border-radius: 50%; overflow: hidden;">
     <img src="images/members/Fatema.png" 
          style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
   </div>
@@ -65,8 +65,8 @@ entertainment.
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <div style="flex-shrink: 0; width: 100px; height: 100px; border-radius: 50%; overflow: hidden; margin-right: 20px;">
+<div style="display: grid; grid-template-columns: 120px 1fr; align-items: center; margin-bottom: 20px;">
+  <div style="width: 100px; height: 100px; border-radius: 50%; overflow: hidden;">
     <img src="images/members/jmJeon.jpg" 
          style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
   </div>
@@ -78,8 +78,8 @@ entertainment.
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <div style="flex-shrink: 0; width: 100px; height: 100px; border-radius: 50%; overflow: hidden; margin-right: 20px;">
+<div style="display: grid; grid-template-columns: 120px 1fr; align-items: center; margin-bottom: 20px;">
+  <div style="width: 100px; height: 100px; border-radius: 50%; overflow: hidden;">
     <img src="images/members/pgKim.png" 
          style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
   </div>
@@ -91,8 +91,8 @@ entertainment.
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <div style="flex-shrink: 0; width: 100px; height: 100px; border-radius: 50%; overflow: hidden; margin-right: 20px;">
+<div style="display: grid; grid-template-columns: 120px 1fr; align-items: center; margin-bottom: 20px;">
+  <div style="width: 100px; height: 100px; border-radius: 50%; overflow: hidden;">
     <img src="images/members/trungDo.jpg" 
          style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
   </div>
@@ -104,8 +104,8 @@ entertainment.
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <div style="flex-shrink: 0; width: 100px; height: 100px; border-radius: 50%; overflow: hidden; margin-right: 20px;">
+<div style="display: grid; grid-template-columns: 120px 1fr; align-items: center; margin-bottom: 20px;">
+  <div style="width: 100px; height: 100px; border-radius: 50%; overflow: hidden;">
     <img src="images/members/skLee.png" 
          style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
   </div>
@@ -117,8 +117,8 @@ entertainment.
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <div style="flex-shrink: 0; width: 100px; height: 100px; border-radius: 50%; overflow: hidden; margin-right: 20px;">
+<div style="display: grid; grid-template-columns: 120px 1fr; align-items: center; margin-bottom: 20px;">
+  <div style="width: 100px; height: 100px; border-radius: 50%; overflow: hidden;">
     <img src="images/members/jhSeo.jpg" 
          style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
   </div>
@@ -130,8 +130,8 @@ entertainment.
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <div style="flex-shrink: 0; width: 100px; height: 100px; border-radius: 50%; overflow: hidden; margin-right: 20px;">
+<div style="display: grid; grid-template-columns: 120px 1fr; align-items: center; margin-bottom: 20px;">
+  <div style="width: 100px; height: 100px; border-radius: 50%; overflow: hidden;">
     <img src="images/members/ysKang.jpg" 
          style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
   </div>
