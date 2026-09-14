@@ -24,6 +24,16 @@ Disney Research, and medical institutions including Samsung Medical Center and S
 National University Hospital, spanning areas such as medical simulation and digital 
 entertainment.
 
+
+<div style="margin: 30px 0; text-align: center;">
+  <img src="images/lab/ieee_vr_2026.jpg" 
+       style="width: 100%; max-width: 800px; border-radius: 12px;">
+  <p style="color: #666; font-size: 0.9em; margin-top: 8px;">
+    GVR Lab members at IEEE VR 2026
+  </p>
+</div>
+
+
 ## Members
 
 <div style="display: grid; grid-template-columns: 120px 1fr; align-items: center; margin-bottom: 20px;">
