@@ -36,36 +36,39 @@ entertainment.
 
 ## Members
 
-<div style="display: grid; grid-template-columns: 120px 1fr; align-items: center; margin-bottom: 20px;">
+<!-- ### Professor : 교수님 항목을 같은 패턴으로 여기에 추가 -->
+
+---
+
+### Ph.D. Students
+
+<div style="display: grid; grid-template-columns: 120px 1fr; gap: 20px; align-items: center; margin-bottom: 20px;">
   <div style="width: 100px; height: 100px; border-radius: 50%; overflow: hidden;">
-    <img src="images/members/YeEun.jpg" 
-         style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
+    <img src="images/members/YeEun.jpg" style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
   </div>
   <div>
     <strong>Kim Ye-eun</strong><br>
-    Ph.D<br>
+    Ph.D. Student<br>
     Research interests: Extended Reality (XR), Human-Computer Interaction, Digital Contents and Interactive Art<br>
     kyy1462@sejong.ac.kr · <a href="https://www.dbpia.co.kr/author/authorDetail?ancId=585097343">DBpia</a>
   </div>
 </div>
 
-<div style="display: grid; grid-template-columns: 120px 1fr; align-items: center; margin-bottom: 20px;">
+<div style="display: grid; grid-template-columns: 120px 1fr; gap: 20px; align-items: center; margin-bottom: 20px;">
   <div style="width: 100px; height: 100px; border-radius: 50%; overflow: hidden;">
-    <img src="images/members/jalal.png" 
-         style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
+    <img src="images/members/SafariBazarganiJalal.png" style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
   </div>
   <div>
     <strong>Safari Bazargani Jalal</strong><br>
-    Ph.D<br>
+    Ph.D. Student<br>
     Research interests: Extended Reality (XR), Human-Computer Interaction, Scene Graph Generation, Scene Synthesis<br>
-    jsafari@sejong.ac.kr · <a href="https://jaysafari.github.io/">Homepage</a>
+    j.safari@sejong.ac.kr · <a href="https://jaysafari.github.io/">Homepage</a>
   </div>
 </div>
 
-<div style="display: grid; grid-template-columns: 120px 1fr; align-items: center; margin-bottom: 20px;">
+<div style="display: grid; grid-template-columns: 120px 1fr; gap: 20px; align-items: center; margin-bottom: 20px;">
   <div style="width: 100px; height: 100px; border-radius: 50%; overflow: hidden;">
-    <img src="images/members/Fatema.png" 
-         style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
+    <img src="images/members/Fatema.png" style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
   </div>
   <div>
     <strong>Rahimi Fatema</strong><br>
@@ -75,39 +78,25 @@ entertainment.
   </div>
 </div>
 
-<div style="display: grid; grid-template-columns: 120px 1fr; align-items: center; margin-bottom: 20px;">
+<div style="display: grid; grid-template-columns: 120px 1fr; gap: 20px; align-items: center; margin-bottom: 20px;">
   <div style="width: 100px; height: 100px; border-radius: 50%; overflow: hidden;">
-    <img src="images/members/Rasoul.jpg" 
-         style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
-  </div>
-  <div>
-    <strong>Mousavi Seyyed Rasoul</strong><br>
-    Ph.D. Student<br>
-    Research interests: Extended Reality (XR), Human–Computer Interaction (HCI), 3D Scene Understanding
-3D Scene Graphs and Dynamic Scene Graphs
-Embodied AI and AI Agents<br>
-    seyyedrasoulmousavi95@gmail.com · <a href="[https://www.linkedin.com/in/fatema-rahimi-87bb36155](https://www.linkedin.com/in/fatema-rahimi-87bb36155?utm_source=share_via&utm_content=profile&utm_medium=member_ios)">LinkedIn</a>
-  </div>
-</div>
-
-
-<div style="display: grid; grid-template-columns: 120px 1fr; align-items: center; margin-bottom: 20px;">
-  <div style="width: 100px; height: 100px; border-radius: 50%; overflow: hidden;">
-    <img src="images/members/jmJeon.jpg" 
-         style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
+    <img src="images/members/jmJeon.jpg" style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
   </div>
   <div>
     <strong>Jeon Jong-min</strong><br>
     Ph.D. Student<br>
-    Research interests: MR/VR Interaction, 3D Reconstruction, Virtual Agents<br>
+    Research interests: MR/VR Interaction, 3D Reconstruction, Vision-Language Models for Virtual Agents<br>
     jjm6564@sju.ac.kr · <a href="https://jjm6564.github.io/">Homepage</a>
   </div>
 </div>
 
-<div style="display: grid; grid-template-columns: 120px 1fr; align-items: center; margin-bottom: 20px;">
+---
+
+### Ph.D. Combined Program
+
+<div style="display: grid; grid-template-columns: 120px 1fr; gap: 20px; align-items: center; margin-bottom: 20px;">
   <div style="width: 100px; height: 100px; border-radius: 50%; overflow: hidden;">
-    <img src="images/members/pgKim.png" 
-         style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
+    <img src="images/members/pgKim.png" style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
   </div>
   <div>
     <strong>Kim Phil-joong</strong><br>
@@ -117,10 +106,9 @@ Embodied AI and AI Agents<br>
   </div>
 </div>
 
-<div style="display: grid; grid-template-columns: 120px 1fr; align-items: center; margin-bottom: 20px;">
+<div style="display: grid; grid-template-columns: 120px 1fr; gap: 20px; align-items: center; margin-bottom: 20px;">
   <div style="width: 100px; height: 100px; border-radius: 50%; overflow: hidden;">
-    <img src="images/members/trungDo.jpg" 
-         style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
+    <img src="images/members/trungDo.jpg" style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
   </div>
   <div>
     <strong>Do Thanh Trung</strong><br>
@@ -130,23 +118,41 @@ Embodied AI and AI Agents<br>
   </div>
 </div>
 
-<div style="display: grid; grid-template-columns: 120px 1fr; align-items: center; margin-bottom: 20px;">
+---
+
+### Master's Students
+
+<div style="display: grid; grid-template-columns: 120px 1fr; gap: 20px; align-items: center; margin-bottom: 20px;">
   <div style="width: 100px; height: 100px; border-radius: 50%; overflow: hidden;">
-    <img src="images/members/skLee.png" 
-         style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
+    <img src="images/members/skLee.png" style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
   </div>
   <div>
-    <strong>Lee Sun-gyo</strong><br>
+    <strong>Lee Sung-yo</strong><br>
     Master's Student<br>
     Research interests: Extended Reality, IoT<br>
     sungyo0421@naver.com
   </div>
 </div>
 
-<div style="display: grid; grid-template-columns: 120px 1fr; align-items: center; margin-bottom: 20px;">
+<div style="display: grid; grid-template-columns: 120px 1fr; gap: 20px; align-items: center; margin-bottom: 20px;">
   <div style="width: 100px; height: 100px; border-radius: 50%; overflow: hidden;">
-    <img src="images/members/jhSeo.jpg" 
-         style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
+    <img src="images/members/ysKang.jpg" style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
+  </div>
+  <div>
+    <strong>Kang Yun-seong</strong><br>
+    Master's Student<br>
+    Research interests: 3D Gaussian Splatting, NVS, SfM Pipelines, Spatial Computing<br>
+    ys.blef.k@sju.ac.kr · <a href="https://www.youtube.com/@BK_Work">YouTube</a>
+  </div>
+</div>
+
+---
+
+### Master's Combined Program
+
+<div style="display: grid; grid-template-columns: 120px 1fr; gap: 20px; align-items: center; margin-bottom: 20px;">
+  <div style="width: 100px; height: 100px; border-radius: 50%; overflow: hidden;">
+    <img src="images/members/jhSeo.jpg" style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
   </div>
   <div>
     <strong>Seo Jeong-hoon</strong><br>
@@ -156,17 +162,25 @@ Embodied AI and AI Agents<br>
   </div>
 </div>
 
-<div style="display: grid; grid-template-columns: 120px 1fr; align-items: center; margin-bottom: 20px;">
-  <div style="width: 100px; height: 100px; border-radius: 50%; overflow: hidden;">
-    <img src="images/members/ysKang.jpg" 
-         style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
-  </div>
-  <div>
-    <strong>Kang Yun-seong</strong><br>
-    Master's Student<br>
-    Research interests: 3DGS, Gaussian Reconstruction, Extended Reality(XR), Spatial Computing<br>
-    ys.blef.k@sju.ac.kr · <a href="https://www.youtube.com/@BK_Work">YouTube</a>
-  </div>
+---
+
+---
+
+### B.S. Students
+
+<div style="padding: 20px; border: 1px solid #ddd; border-radius: 12px; background: #f9fafb;">
+  <strong>Interested in joining us as an undergraduate researcher?</strong><br>
+  We are looking for motivated undergraduate students interested in XR, graphics, and spatial computing.
+  If you are interested, please fill out the application form below and we will get back to you.
+  <br><br>
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLScS9Fzzu4tyNccxF9EGufCFZEC4ONrB-bVu3pygB8R3p1YRlg/viewform"
+     target="_blank" rel="noopener"
+     style="display: inline-block; padding: 10px 20px; background: #159957; color: #fff; border-radius: 8px; text-decoration: none; font-weight: bold;">
+    Apply as Undergraduate Researcher →
+  </a>
 </div>
 
-*Last updated: September 2026*
+---
+---
+
+*Last updated: October 2026*
