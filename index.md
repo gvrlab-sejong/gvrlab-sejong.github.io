@@ -1,7 +1,5 @@
 # GVR Lab @ Sejong University
 
-> 🚧 This page is under construction. Content may change without notice. 🚧
-
 ## About GVR Lab
 
 The Graphics & Virtual Reality (GVR) Lab at Sejong University researches the core 
@@ -170,15 +168,21 @@ entertainment.
 
 ### B.S. Students
 
+*Currently, there are no undergraduate students in the lab.*
+
+---
+
+### Interns
+
 <div style="padding: 20px; border: 1px solid #ddd; border-radius: 12px; background: #f9fafb;">
-  <strong>Interested in joining us as an undergraduate researcher?</strong><br>
-  We are looking for motivated undergraduate students interested in XR, graphics, and spatial computing.
+  <strong>Interested in joining us as an intern?</strong><br>
+  We are looking for motivated students interested in XR, graphics, and spatial computing.
   If you are interested, please fill out the application form below and we will get back to you.
   <br><br>
   <a href="https://docs.google.com/forms/d/e/1FAIpQLScS9Fzzu4tyNccxF9EGufCFZEC4ONrB-bVu3pygB8R3p1YRlg/viewform"
      target="_blank" rel="noopener"
      style="display: inline-block; padding: 10px 20px; background: #159957; color: #fff; border-radius: 8px; text-decoration: none; font-weight: bold;">
-    Apply as Undergraduate Researcher →
+    Apply as Intern →
   </a>
 </div>
 
