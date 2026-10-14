@@ -40,12 +40,6 @@ entertainment.
 
 ---
 
-## Members
-
-<!-- ### Professor : 교수님 항목을 같은 패턴으로 여기에 추가 -->
-
----
-
 ### Postdoctoral Researchers
 
 <div style="display: grid; grid-template-columns: 120px 1fr; gap: 20px; align-items: center; margin-bottom: 20px;">
